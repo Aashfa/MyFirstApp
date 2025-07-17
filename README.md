@@ -1,5 +1,9 @@
 # Welcome to Task Manager app 👋
-![Uploading image.png…]()
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/4337bcce-164a-4d46-8e1a-4a78863f21f5" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/ec922822-33c8-40f1-a6ff-96098b7ad6da" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/de1024a8-3c2d-4a17-89e8-5b021a94a8dc" />
+After removing task <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/49b2fe65-798f-4463-b9e8-e28183ce686a" />
+
 
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
